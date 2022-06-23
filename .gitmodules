@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CluMSID"]
+	path = CluMSID
+	url = https://github.com/tdepke/clumsid
+	shallow = true
+	registered = true
